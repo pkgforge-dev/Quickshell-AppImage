@@ -9,7 +9,8 @@ export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=/usr/share/icons/hicolor/scalable/apps/org.quickshell.svg
-export DESKTOP=/usr/share/applications/org.quickshell.desktop
+export DESKTOP=DUMMY
+export MAIN_BIN=quickshell
 export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
