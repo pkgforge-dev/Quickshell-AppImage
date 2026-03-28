@@ -1,19 +1,19 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# Quickshell-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Quickshell-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Quickshell-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Quickshell-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Quickshell-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Quickshell-AppImage)](https://github.com/pkgforge-dev/Quickshell-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/quickshell-mirror/quickshell-web/b2d43ad425f6a0b3076962e8caaa3084f6b4cee4/public/favicon.svg" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/Quickshell-AppImage/releases/latest) | [Click here](https://github.com/quickshell-mirror/quickshell) |
 
 </div>
 
